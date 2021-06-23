@@ -1,4 +1,4 @@
 # DICEE-GAME-FILES
-A Javascript Dice  Game for 2 players. Involves the random generation of dice numbers between two players to determine when a key is pressed.
+A Javascript Two-playert Dice  Game. Involves the random generation of dice numbers between two players to determine a winner when a specific key is pressed. Almost as same as the traditional Dice Game.
 
-HTML, CSS and JavaScript
+Built using HTML, CSS and JavaScript
